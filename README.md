@@ -1,4 +1,5 @@
-# Home Sales Analysis Project
+# home-sales-analysis
+Home Sales Analysis Project
 
 ## Overview  
 This project analyzes home sales data to uncover market trends, key price drivers, and build predictive models. Using a comprehensive dataset, it demonstrates data cleaning, exploratory data analysis (EDA), visualization, and machine learning techniques to forecast home sale prices.
